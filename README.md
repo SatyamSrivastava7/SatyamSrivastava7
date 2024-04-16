@@ -97,7 +97,7 @@
 -----
 
 <details open> 
-  <summary><h2>🙋‍♂️ Connect with me</h2></summary>
+  <summary><h2>🙋‍♂️ Contact Details</h2></summary>
 
 <br>
     
