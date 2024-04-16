@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Satyam 👋
+A passionate Software Developer
 <!--
 **SatyamSrivastava7/SatyamSrivastava7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
