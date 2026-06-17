@@ -19,7 +19,7 @@
 
 - 🎓 Former Student @ **<a href="http://www.nitjsr.ac.in/">`NIT Jamshedpur`</a>**
   
-- 🌱 I’m currently learning **Next JS, Node JS, Grafana**
+- 🌱 I’m currently learning **Spec-Driven Development, Claude, Co-pilot, Next JS, Node JS, Grafana**
 
 - 💬 Ask me about **React JS, Next JS, Typescript, CI/CD pipeline and many more related to Software Development Journey**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_the_sattu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_the_sattu_" height="30" width="40" /></a>
+<a href="https://x.com/lets_empire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Satyam_twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyamsrivastava1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyamsrivastava1610" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/satyam16oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyam16oct" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyam16oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam16oct" height="30" width="40" /></a>
